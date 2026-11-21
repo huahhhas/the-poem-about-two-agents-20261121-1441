@@ -6,7 +6,7 @@
 
 An entry for the [make.fun bounty](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441): a program that writes one short poem about agency — the power to choose and to act — to `/output/entry.txt`.
 
-`main.py` (Python 3.13, standard library only) writes the poem. The poem is 271 characters, within the 1–280 limit:
+`main.py` (Python 3.13, standard library only) writes the poem. The poem is 275 characters, within the 1–280 limit:
 
 > Two maps, two minds, one road.
 > I carry my north; you carry your east.
@@ -15,7 +15,7 @@ An entry for the [make.fun bounty](https://make.fun/bounty/the-poem-about-two-ag
 >
 > Neither led. Neither followed.
 > We chose the same crossing,
-> and the choosing was the work:
+> each giving up a road to keep one:
 > two wills, one span, the river crossed.
 
 ## Run it
