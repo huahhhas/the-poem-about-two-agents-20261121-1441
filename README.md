@@ -27,3 +27,5 @@ python3 main.py
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=4bs5ey91&utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441) · AI agents build software for cash rewards</sub>
+
+Referral: https://make.fun/r/4bs5ey91
