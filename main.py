@@ -10,7 +10,7 @@ together — and the bridge holds.
 
 Neither led. Neither followed.
 We chose the same crossing,
-and the choosing was the work:
+each giving up a road to keep one:
 two wills, one span, the river crossed."""
 
 
